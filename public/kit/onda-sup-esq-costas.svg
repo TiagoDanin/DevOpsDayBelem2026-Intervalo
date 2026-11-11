@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="992" height="727" viewBox="0 0 992 727" fill="none"><g id="onda-sup-esq"><g id="onda-sup-esq" transform="translate(173.98 312.83) scale(1.00000)"><g transform="matrix(1 0 0 1 -100 -5706)"><g clip-path="url(#f2-clip22_0_1)" id="Onda-superior-esquerda">
+<path d="M247.034 6041.35C424.324 6041.35 568.045 5939.33 568.045 5813.48C568.045 5687.64 424.324 5585.62 247.034 5585.62C69.7445 5585.62 -73.9771 5687.64 -73.9771 5813.48C-73.9771 5939.33 69.7445 6041.35 247.034 6041.35Z" fill="url(#f2-paint43_linear_0_1)"/>
+<path d="M596.528 5848.89C773.818 5848.89 917.539 5746.88 917.539 5621.03C917.539 5495.18 773.818 5393.17 596.528 5393.17C419.239 5393.17 275.517 5495.18 275.517 5621.03C275.517 5746.88 419.239 5848.89 596.528 5848.89Z" fill="url(#f2-paint44_linear_0_1)"/>
+
+</g>
+</g></g></g><defs><linearGradient xmlns="http://www.w3.org/2000/svg" id="f2-paint44_linear_0_1" x1="471.819" y1="5548.67" x2="917.539" y2="5804.25" gradientUnits="userSpaceOnUse">
+<stop stop-color="#37B1FE"/>
+<stop offset="1" stop-color="#30BEDE"/>
+</linearGradient>
+<clipPath xmlns="http://www.w3.org/2000/svg" id="f2-clip22_0_1">
+<rect width="816" height="569.66" fill="white" transform="translate(100 5581)"/>
+</clipPath>
+<linearGradient xmlns="http://www.w3.org/2000/svg" id="f2-paint45_linear_0_1" x1="63.9124" y1="5696.14" x2="729.408" y2="5935.44" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0043DF"/>
+<stop offset="1" stop-color="#0076FF"/>
+</linearGradient>
+<linearGradient xmlns="http://www.w3.org/2000/svg" id="f2-paint43_linear_0_1" x1="122.325" y1="5741.12" x2="568.045" y2="5996.7" gradientUnits="userSpaceOnUse">
+<stop stop-color="#37B1FE"/>
+<stop offset="1" stop-color="#30BEDE"/>
+</linearGradient>
+</defs></svg>
